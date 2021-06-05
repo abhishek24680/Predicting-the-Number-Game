@@ -1,0 +1,21 @@
+@media screen and (max-width: 600px) {
+  .guess {
+    width: 100px;
+    border: 1px solid black;
+    font-size: 2rem;
+  }
+  .check {
+    width: 100px;
+    font-size: 1rem;
+    padding: 12px;
+  }
+  .btn {
+    width: 100px;
+    font-size: 1rem;
+    padding: 12px;
+  }
+  .predict {
+    font-size: 1rem;
+    margin-bottom: 40px;
+  }
+}
